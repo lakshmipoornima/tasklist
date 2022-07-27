@@ -1,0 +1,23 @@
+.childtaskbox{
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    height:fit-content
+}
+.bullet{
+    margin-left: 5px;
+    margin-top: 15px;
+    width: 10px;
+    height:10px;
+    
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+.childtitle{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.childduedate{
+    margin-right: 5px;
+    margin-top: 10px;
+}

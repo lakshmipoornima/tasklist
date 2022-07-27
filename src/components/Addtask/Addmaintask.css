@@ -1,0 +1,47 @@
+.taskform{
+    width:70%;
+    margin-left: 10%;
+    margin-top: 20vh;
+    text-align: left;
+   
+}
+
+.taskfields{
+    display: flex;
+    padding: 5px;
+}
+
+label{
+    flex:1;
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+    padding-right: 10px;
+}
+
+input{
+    flex:11;
+    text-align: left;
+}
+span{
+    flex:11
+}
+
+select{
+    flex:11
+}
+
+.addtaskbtn{
+    text-align: center;
+}
+.btn{
+    background-color: #150485;
+    color:white;
+    font-size:30px;
+    
+}
+.datepicker{
+    border: none;
+}
+.datepicker:focus{
+outline: none;
+}
